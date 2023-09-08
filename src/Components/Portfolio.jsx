@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/john.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "picture of mountain for the background of portfolio";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Personal Resume",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "this is one of my first resume website which i managed to made it when i was learninh html&css",
+    url: "https://junaidpeshimam.github.io/resume/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This was my first portfolio website which i made with notion,and it was so easy.",
+    url: "https://junaidpeshimam.notion.site/M-Junaid-Peshimam-48ff5039b7ae450fb4e98f690e0b76ac?pvs=4",
   },
   {
-    title: "My Resume Site",
+    title: "Minimalistic Resume idea",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "if you wanna create a resume which can work 100% then try this",
+    url: "https://www.canva.com/design/DAFtCr-LOL4/UN7wJss4YAnBSJ9SzWiUvg/edit?utm_content=DAFtCr-LOL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Insta Page Out there",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "If you wanna collaborate then please do dm me in insta.",
+    url: "https://www.instagram.com/junaidpeshimam",
   },
 ];
 
